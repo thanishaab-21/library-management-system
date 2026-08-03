@@ -1,0 +1,8 @@
+# The core application (main.py, library.py, models.py, storage.py) uses
+# only the Python standard library — no external packages are required
+# to run it.
+#
+# The dependency below is only needed if you want to run the automated
+# test suite in tests/.
+
+pytest>=7.0.0
